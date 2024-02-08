@@ -29,7 +29,7 @@ It also taught me technical skills with:
   - [File Permissions in Linux](https://docs.google.com/document/d/1DtWyWgsLXpdzoL1LHD3SumXZnXplukRwYntE094a9vY/edit?usp=sharing)
 - <b>Python</b>
   - [Update a file through a Python algorithm](https://docs.google.com/document/d/16IFY464xGjWeGFoWqZI9cnnLbLzH-B8yv6eLtiu6Kk0/edit?usp=sharing&resourcekey=0-wYOttQAWbP4Y5ImLcRw3EQ)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Writing Python Code](https://docs.google.com/document/d/1dzBBKEeMz8Lhs4RuN4R9ujz3vsvZJqp9xHHZUmo_Zoo/edit?usp=sharing)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>C# (.NET Desktop Applications)</b>
