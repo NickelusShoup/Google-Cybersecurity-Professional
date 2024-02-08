@@ -32,10 +32,12 @@ It also taught me technical skills with:
   - [Writing Python Code](https://docs.google.com/document/d/1dzBBKEeMz8Lhs4RuN4R9ujz3vsvZJqp9xHHZUmo_Zoo/edit?usp=sharing)
   - [Assign Python variables](https://docs.google.com/document/d/1crX5yOiqKLEwaCKQCrah5cy3Bdudr9T2fvIiVRTKOB0/edit?usp=sharing)
   - [Create a conditional statement](https://docs.google.com/document/d/16PYZMcB2uf1OorqnRdhukbtDszrzy9d-ZCMUqxxWVZE/edit?usp=sharing)
-  - [Create a conditional statement](https://docs.google.com/document/d/16PYZMcB2uf1OorqnRdhukbtDszrzy9d-ZCMUqxxWVZE/edit?usp=sharing)
+  - [Define and call a function](https://docs.google.com/document/d/1MAPWwQcrXqJ_dfRzQS7q9m4hLu-m82_C1c2UoT7kBFU/edit?usp=sharing)
   - [Create Loops](https://docs.google.com/document/d/182tM5fM1JI2Lj6BiTRoX4_ezRqfPyRBWxS1sAS_GUHU/edit?usp=sharing)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
+  - [Work with strings in Python](https://docs.google.com/document/d/1tDH-xfDK7QCCbW0xo2jI3dlZlLBFhvjWH8LmbYhBjJA/edit?usp=sharing)
+- <b>SQL</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
