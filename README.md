@@ -30,8 +30,8 @@ It also taught me technical skills with:
 - <b>Python</b>
   - [Update a file through a Python algorithm](https://docs.google.com/document/d/16IFY464xGjWeGFoWqZI9cnnLbLzH-B8yv6eLtiu6Kk0/edit?usp=sharing&resourcekey=0-wYOttQAWbP4Y5ImLcRw3EQ)
   - [Writing Python Code](https://docs.google.com/document/d/1dzBBKEeMz8Lhs4RuN4R9ujz3vsvZJqp9xHHZUmo_Zoo/edit?usp=sharing)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Assign Python variables](https://docs.google.com/document/d/1crX5yOiqKLEwaCKQCrah5cy3Bdudr9T2fvIiVRTKOB0/edit?usp=sharing)
+  - [Create a conditional statement](https://docs.google.com/document/d/16PYZMcB2uf1OorqnRdhukbtDszrzy9d-ZCMUqxxWVZE/edit?usp=sharing)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
