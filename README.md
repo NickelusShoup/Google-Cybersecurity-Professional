@@ -23,7 +23,7 @@ It also taught me technical skills with:
   * IDS/IPS tools
   * Firewalls
 
-<h2>It also taught me technical skills with:</h2>
+It also taught me technical skills with:
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
