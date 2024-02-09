@@ -9,19 +9,14 @@ You can view my certificate of completion on [Credly](https://www.credly.com/ear
 In this course I gained foundational knowledge that will prepare me for entry-level jobs in cybersecurity and help me understand how security teams protect their organizations and its customers. 
 
 This course covered many conceptual topics such as:
-  * Risk management
-  * Threat analysis
-  * Network security
-  * Incident response
-
-It also taught me technical skills with:
-  * Linux
-  * Python
-  * SQL
-  * SIEM tools (Splunk and Chronicle)
-  * Network protocol analyzers (Wireshark and tcpdump)
-  * IDS/IPS tools
-  * Firewalls
+- <b>Risk Management</b>
+  - [Controls and compliance checklist](https://docs.google.com/document/d/1mAambDSeFKPhcDRW4dYVxsAO5EgQE1cVuOEBbz0CRak/edit?usp=sharing)
+- <b>Threat Analysis</b>
+- <b>Network Security</b>
+  - [Vulnerability Assessment Report](https://docs.google.com/document/d/1AwcsSLRmPvoxoK1HZyY0Z27JWL5XPldjF7dNN1aooYI/edit?usp=sharing)
+- <b>Incident Response</b>
+  - [Incident report analysis](https://docs.google.com/document/d/1wLoyClVjy8GOBHqrUOgTn2HzSD_wQd8GJVwPx1Qki1E/edit?usp=sharing&resourcekey=0-NBj8d_M2i5mX7bMhRJUhAQ)
+  - [Incident handler's journal](https://docs.google.com/document/d/1YYnChNHA5MFcLHA2ncODBc767nTsBzItEdrpLyXrPsI/edit?usp=sharing&resourcekey=0-7Gqz5bnwaM3UdCEd9qrKLw)
 
 It also taught me technical skills with:
 
@@ -38,9 +33,9 @@ It also taught me technical skills with:
 - <b>SQL</b>
   - [Apply filters to SQL queries](https://docs.google.com/document/d/1HxNTdY5zjo4jpy87MUxntu9GwNMV_HEwHQAEGcaJswU/edit?usp=sharing&resourcekey=0-xhvoIYsKgqwtvnm6bEC37A)
 - <b>SIEM Tools (Splunk and Chronicle)</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
+- <b>Network protocol analyzers (Wireshark and tcpdump)</b>
+- <b>IDS/IPS tools</b>
+- <b>Firewalls</b>
 
 Each directory holds the files for each of the courses in the certificate and the order they were completed in is: 
   1. Foundations of Cybersecurity
