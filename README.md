@@ -37,13 +37,13 @@ It also taught me technical skills with:
   - [Work with strings in Python](https://docs.google.com/document/d/1tDH-xfDK7QCCbW0xo2jI3dlZlLBFhvjWH8LmbYhBjJA/edit?usp=sharing)
 - <b>SQL</b>
   - [Apply filters to SQL queries](https://docs.google.com/document/d/1HxNTdY5zjo4jpy87MUxntu9GwNMV_HEwHQAEGcaJswU/edit?usp=sharing&resourcekey=0-xhvoIYsKgqwtvnm6bEC37A)
-- <b></b>
+- <b>SIEM Tools (Splunk and Chronicle)</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
 Each directory holds the files for each of the courses in the certificate and the order they were completed in is: 
-  -1. Foundations of Cybersecurity(https://coursera.org/share/90c6059b85789bfb446f2581d34110a1)
+  1. Foundations of Cybersecurity
   2. Play It Safe: Manage Security Risks
   3. Connect and Protect: Networks and Network Security
   4. Tools of the Trade: Linux and SQL
