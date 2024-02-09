@@ -37,8 +37,8 @@ It also taught me technical skills with:
 - <b>IDS/IPS tools</b>
 - <b>Firewalls</b>
 
-Each directory holds the files for each of the courses in the certificate and the order they were completed in is: 
-  1. Foundations of Cybersecurity
+Each link holds the certificate in the courses and the order they were completed in is: 
+   - [1. Foundations of Cybersecurity](https://coursera.org/share/90c6059b85789bfb446f2581d34110a1)
   2. Play It Safe: Manage Security Risks
   3. Connect and Protect: Networks and Network Security
   4. Tools of the Trade: Linux and SQL
