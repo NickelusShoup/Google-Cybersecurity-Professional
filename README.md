@@ -39,10 +39,10 @@ It also taught me technical skills with:
 
 Each link holds the certificate in the courses and the order they were completed in is: 
    - [1. Foundations of Cybersecurity](https://coursera.org/share/90c6059b85789bfb446f2581d34110a1)
-  2. Play It Safe: Manage Security Risks
-  3. Connect and Protect: Networks and Network Security
-  4. Tools of the Trade: Linux and SQL
-  5. Assets, Threats, and Vulnerabilities
-  6. Sound the Alarm: Detection and Response
-  7. Automate Cybersecurity Tasks with Python
-  8. Put It to Work: Prepare for Cybersecurity Jobs (No files needed)
+   - [2. Play It Safe: Manage Security Risks](https://coursera.org/share/acd84588eb376da195053122c2e33691)
+   - [3. Connect and Protect: Networks and Network Security](https://coursera.org/share/cf4a22f10281f2fb8bc8f735cc5c323f)
+   - [4. Tools of the Trade: Linux and SQL](https://coursera.org/share/e3c66389536bddbb6d2afbfb48be3239)
+   - [5. Assets, Threats, and Vulnerabilities](https://coursera.org/share/7e3fd478e3e5ce4e0794aa662bc4a2d0)
+   - [6. Sound the Alarm: Detection and Response](https://coursera.org/share/077acd94e19c6c9d0258827ba5f078d1)
+   - [7. Automate Cybersecurity Tasks with Python](https://coursera.org/share/3a3f1791834a4783ad55c8a55a6cc806)
+   - [8. Put It to Work: Prepare for Cybersecurity Jobs](https://coursera.org/share/b26bc777dd011501a5f3150aa053df94)
